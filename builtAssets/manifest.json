@@ -1,0 +1,69 @@
+{
+  "assets": {
+    "chat.js": "chat-3f4203faa71c0d897d1f9fcbd6b569e0.js",
+    "client.js": "client-e8f2542e3807cd588013516de537b075.js",
+    "common.js": "common-1e931ff04abc3f843c1d45aa0daa675a.js",
+    "login.js": "login-1372a8500c8aa9bf54ae2cdcb40edb16.js",
+    "models.js": "models-e586438cc9dc49af0b46c2a8116dffe8.js",
+    "transcript.js": "transcript-32d21742f8df6a56dfe5a51a35bfb928.js",
+    "vendor.js": "vendor-e5e80e5997762b7798421b0780a52bbc.js",
+    "style.css": "style-4aa63426e16cd70d3b80df0b9a4a432b.css",
+    "vendor.css": "vendor-08e8340e03e04e88030d9abdcadf23d4.css"
+  },
+  "files": {
+    "chat-3f4203faa71c0d897d1f9fcbd6b569e0.js": {
+      "logical_path": "chat.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 40983,
+      "digest": "3f4203faa71c0d897d1f9fcbd6b569e0"
+    },
+    "client-e8f2542e3807cd588013516de537b075.js": {
+      "logical_path": "client.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 7499,
+      "digest": "e8f2542e3807cd588013516de537b075"
+    },
+    "common-1e931ff04abc3f843c1d45aa0daa675a.js": {
+      "logical_path": "common.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 866,
+      "digest": "1e931ff04abc3f843c1d45aa0daa675a"
+    },
+    "login-1372a8500c8aa9bf54ae2cdcb40edb16.js": {
+      "logical_path": "login.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 5329,
+      "digest": "1372a8500c8aa9bf54ae2cdcb40edb16"
+    },
+    "models-e586438cc9dc49af0b46c2a8116dffe8.js": {
+      "logical_path": "models.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 808,
+      "digest": "e586438cc9dc49af0b46c2a8116dffe8"
+    },
+    "transcript-32d21742f8df6a56dfe5a51a35bfb928.js": {
+      "logical_path": "transcript.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 30821,
+      "digest": "32d21742f8df6a56dfe5a51a35bfb928"
+    },
+    "vendor-e5e80e5997762b7798421b0780a52bbc.js": {
+      "logical_path": "vendor.js",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 451603,
+      "digest": "e5e80e5997762b7798421b0780a52bbc"
+    },
+    "style-4aa63426e16cd70d3b80df0b9a4a432b.css": {
+      "logical_path": "style.css",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 74933,
+      "digest": "4aa63426e16cd70d3b80df0b9a4a432b"
+    },
+    "vendor-08e8340e03e04e88030d9abdcadf23d4.css": {
+      "logical_path": "vendor.css",
+      "mtime": "2019-04-01T16:46:03.000Z",
+      "size": 114583,
+      "digest": "08e8340e03e04e88030d9abdcadf23d4"
+    }
+  }
+}
