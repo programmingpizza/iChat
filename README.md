@@ -1,5 +1,5 @@
 # iChat
-it is chat application for college students.
+It is a chatroom application for college students.
 
 
 software requirements
